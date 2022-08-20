@@ -1,11 +1,3 @@
-# Acknowledgement
-
-Gyeonggi Cheonnyeonche (Gyeonggi Thousand Font), created by Gyeonggi province, is an award-winning font designed with the concept of connection that implies the mediating characteristics of Gyeonggi province that tracks back a thousand years since its inception.
-
-The font is licensed under KOGL Type 1, comparable to that of CC-BY 1.0 License. The source website can be visited
-[here](https://www.gg.go.kr/contents/contents.do?ciIdx=679&menuId=2457) (Korean).
-
-
 # Korean Open Government License (KOGL) Type 1
 
 <center>
@@ -27,9 +19,9 @@ The font is licensed under KOGL Type 1, comparable to that of CC-BY 1.0 License.
 \* Note: The indication of the sourec shall not be used to misguide a third part as it is sponsored by public
 institutions or as it has special relationship with public institutions.
 
-### Change Prohibition
+### Change Permitted
 
-- No changes or modifications to the work is allowed.
+- Changes or modifications to the work is permitted to create secondary work.
 
 
 ## 1. Source Indication Liability
