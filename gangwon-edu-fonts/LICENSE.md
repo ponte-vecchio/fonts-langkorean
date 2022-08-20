@@ -19,9 +19,9 @@
 \* Note: The indication of the sourec shall not be used to misguide a third part as it is sponsored by public
 institutions or as it has special relationship with public institutions.
 
-### Change Prohibition
+### Change Allowed
 
-- No changes or modifications to the work is allowed.
+- Changes or modifications to the work is allowed to create secondary work.
 
 
 ## 1. Source Indication Liability
