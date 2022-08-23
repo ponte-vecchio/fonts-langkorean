@@ -7,7 +7,7 @@
 
 </center>
 
-The source website can be visited
+The font is licensed under KOGL Type 3, which can be viewed in the LICENSE file. The source website can be visited
 [here](https://hanfont.hangeul.go.kr/relaxfont/font/deokon.do) (Korean).
 
 ## Copyright

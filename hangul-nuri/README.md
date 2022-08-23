@@ -1,11 +1,17 @@
-# Gyeonggi Font
+# Hangeul Nuri Font
+[![](https://img.shields.io/badge/license-KOGL%20Type%203-blue.svg)](https://www.mcst.go.kr/kor/s_open/kogl/licenseType.jsp?pTab=1&pType=C)
 
-Gyeonggi Cheonnyeonche (Gyeonggi "Thousand Years" Font), created by Gyeonggi province, is an award-winning font designed with the concept of connection that implies the mediating characteristics of Gyeonggi province that tracks back a thousand years since its inception.
+<center>
 
-The font is licensed under KOGL Type 1, comparable to that of CC-BY 1.0 License.
-As such, the user can freely use the public work without fee, and can change it to create secondary work.
+![](https://upload.wikimedia.org/wikipedia/commons/a/ad/KOGL_3.svg)
 
-The source website can be visited
-[here](https://www.gg.go.kr/contents/contents.do?ciIdx=679&menuId=2457) (Korean).
+</center>
 
+The font is licensed under KOGL Type 3, which can be viewed in the LICENSE file. The source website can be visited
+[here](https://hanfont.hangeul.go.kr/relaxfont/font/hangeulnuri.do) (Korean).
 
+## Copyright
+
+Copyright (c) 2021-2022 Yoon Design Group
+
+Copyright (c) 2021-2022 National Hangeul Museum

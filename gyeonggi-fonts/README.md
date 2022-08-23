@@ -1,61 +1,32 @@
-# Korean Open Government License (KOGL) Type 1
+# Gyeonggi Fonts
+[![](https://img.shields.io/badge/license-KOGL%20Type%201-blue.svg)](https://www.mcst.go.kr/kor/s_open/kogl/licenseType.jsp?pTab=1&pType=A)
 
 <center>
 
-![](https://www.kogl.or.kr/images/front/sub/img_opencode1_m_en.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/KOGL_1.svg)
 
 </center>
 
-## Summary
+The font is licensed under KOGL Type 1, which can be viewed in the LICENSE file. The source is available from the
+Gyeonggi Provincial Office website.
 
-### On/Offline sharing and use
+- [OTF Source](https://www.gg.go.kr/uploads/CONTENTS/site/gg/Gyeonggi_font_OTF_TTF_0602(Mac).zip).
+- [TTF Source](https://www.gg.go.kr/uploads/CONTENTS/site/gg/Gyeonggi_font_OTF_TTF_0602.zip).
+- [WOFF Source](https://www.gg.go.kr/uploads/CONTENTS/site/gg/%EA%B2%BD%EA%B8%B0%EC%84%9C%EC%B2%B4%EC%9B%B9%ED%8F%B0%ED%8A%B8.zip).
 
-- Sharing and use online/offline permitted.
+## Changes Made
 
-### Indication of the source
+PS names were modified to exclude special characters and spaces present in the original PS name which resulted in an undesirable behaviour for \*NIX systems. The new PS names also simplified the verbose names to Sans/Serif scheme and corrected some irregular typeface patterns: 
 
-- Source of the work must be indicated
+| Old | New |
+| :--- | :--- |
+| GyeonggiCheonnyeonBatang-Light | GyeonggiSerif-Light |
+| GyeonggiCheonnyeonBatang-Medium | GyeonggiSerif-Medium |
+| GyeonggiCheonnyeonBatang-Bold | GyeonggiSerif-Bold |
+| GyeonggiCheonnyeonBatangV-Bold | GyeonggiSerif-V-Bold |
+| GyeonggiCheonnyeonJemok | GyeonggiSans-Regular |
+| GyeonggiCheonnyeonJemok-Bold | GyeonggiSans-Regular-Bold |
 
-\* Note: The indication of the sourec shall not be used to misguide a third part as it is sponsored by public
-institutions or as it has special relationship with public institutions.
+## Copyright
 
-### Change Permitted
-
-- Changes or modifications to the work is permitted to create secondary work.
-
-
-## 1. Source Indication Liability
-
-- Users who use public works shall indicate source or copyright as follows:
-	"OOO (Public Institution's Name)'s public work is used according to KOGL"
-
-- The link shall be provided when online hyperlink for the source website is available
-
-- Marking shall not be used to misguide the third party that the user is sponsored by public institution or user has
-  a special relationship with public institutions.
-
-## 2. Use Prohibited Information
-
-- Personal information that is protected by Personal Information Protection Act, Promotion for Information Network Use
-  and Information Protection Act etc.
-
-- Credit information protected by the Use and Protection of Credit Information Act etc.
-
-- Military secrets protected by Military Secret Protection Act, etc.
-
-- Information that is the object of other rights such as trademark right, design right or patent right etc, or that is
-  owned by third part's copyright.
-
-- Other information that is use prohibited information according to other laws.
-
-## 3. Public Institution's Liability Exemption
-
-- Public institution does not guarantee the accuracy or continued service of public works.
-
-- Public institution and its employees do not have any liability for any kind of damage or disadvantage that may arise
-  by using public works.
-
-## 4. Effect of Use Term Violation
-
-- The use permission is automatically terminated when user violates any of the KOGL's Use Terms, and the user shall
-  immediate stop using public works.
+Copyright (c) 2018 Provincial Government of Gyeonggi
