@@ -3,7 +3,7 @@
 
 <center>
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/KOGL_1.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/d/d3/KOGL_1.svg)
 
 </center>
 
